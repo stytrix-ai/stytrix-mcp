@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.hirosichen/stytrix-mcp",
+  "description": "AI fashion design MCP: generate concepts, models, fabrics & looks live on your StyTrix canvas.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.stytrix.com/mcp",
+  "repository": {
+    "url": "https://github.com/hirosichen/stytrix-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.stytrix.com/api/mcp"
+    }
+  ]
+}
