@@ -67,3 +67,7 @@ Generation tools deduct StyTrix credits only after a successful result. You keep
 - MCP docs: https://www.stytrix.com/mcp
 - Privacy: https://www.stytrix.com/privacy
 - Support: hello@stytrix.com
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
